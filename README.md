@@ -1,8 +1,8 @@
-<img align="center" src="./giphy.gif" width="230" alt="Madoka Magica Homura GIF" />
+<img align="center" src="./giphy.gif" width="500" alt="Madoka Magica Homura GIF" />
 
 ### Hi there! 👋
 
-I'm a Computer Science student at **Colorado State University** concentrating in **Networks and Security** (with a minor in Political Scienc). I love Cybersecurity, Software Engineering, and Politics, and my favorite thing in the world is the intersection of all three. 
+I'm a Computer Science student at **Colorado State University** concentrating in **Networks and Security** (with a minor in Political Science). I love Cybersecurity, Software Engineering, and Politics, and my favorite thing in the world is the intersection of all three. 
 
 Of course, I know my way around a computer a bit with this kind of knowledge:
 - **Languages:** Python, Java, SQL, R, HTML, Bash, PowerShell
