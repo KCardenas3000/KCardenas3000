@@ -1,4 +1,4 @@
-<img align="right" src="./giphy.gif" width="230" alt="Madoka Magica Homura GIF" />
+<img align="center" src="./giphy.gif" width="230" alt="Madoka Magica Homura GIF" />
 
 ### Hi there! 👋
 
