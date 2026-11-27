@@ -6,7 +6,7 @@ I'm a Computer Science student at **Colorado State University** concentrating in
 
 Of course, I know my way around a computer a bit with this kind of knowledge:
 - **Languages:** Python, Java, SQL, R, HTML, Bash, PowerShell
-- **Certifications:** CompTIA Security+, Cisco Certified Support Technician (CCST)
+- **Certifications:** CompTIA Security+ (studying for it now! Expecting to get it sometime in the winter break of December 2026), Cisco Certified Support Technician (CCST)
 
 <br clear="right"/>
 
@@ -15,8 +15,8 @@ Of course, I know my way around a computer a bit with this kind of knowledge:
 I have some previous education too! Check it out! 
 
 ### 🎓 Previous Education
-* **Associate of Applied Science (AAS) in Cybersecurity** — Pikes Peak State College
-* Certificates in **Cybersecurity**, **Computer Networking**, and **Network+** (not the official Network+). 
+* **Associate of Applied Science (AAS) in Cybersecurity** — Pikes Peak State College (expected conferral May 2026)
+* Certificates in **Cybersecurity**, **Computer Networking**, and **Network+ Prep**. 
 
 ---
 
@@ -32,7 +32,7 @@ Here's some of my old projects. I may come back to some while others are practic
 Here's my working on! As time goes on things come and go from here.
 
 ### 🔭 Currently Working On
-* **May's Anchorbox:** Developing a custom cybersecurity utility toolbox.
+* **May's Anchorbox:** Developing a custom cybersecurity utility toolbox. 
 
 ---
 
