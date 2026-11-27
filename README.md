@@ -26,13 +26,13 @@ Here's some of my old projects. I may come back to some while others are practic
 * **Self-Hosted Homelab:** Configured and maintain a personal server environment hosting Nextcloud and a custom Minecraft server for my friends.
 * **AmberDash:** A campaign finance auditor web application to track and analyze political contributions.
 * **Terminal Blackjack:** Developed a command-line Blackjack game in Java featuring full game-state logic.
-
+* **May's Anchorbox:** Developing a custom cybersecurity utility toolbox. Version 1 out now!
 ---
 
 Here's my working on! As time goes on things come and go from here.
 
 ### 🔭 Currently Working On
-* **May's Anchorbox:** Developing a custom cybersecurity utility toolbox. 
+* **May's Anchorbox** Developing a custom cybersecurity utility toolbox. Version 1.1 is on it's way! 
 
 ---
 
