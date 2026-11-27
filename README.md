@@ -15,7 +15,7 @@ Of course, I know my way around a computer a bit with this kind of knowledge:
 I have some previous education too! Check it out! 
 
 ### 🎓 Previous Education
-* **Associate of Applied Science (AAS) in Cybersecurity** — Pikes Peak State College (expected conferral May 2026)
+* **Associate of Applied Science (AAS) in Cybersecurity** — Pikes Peak State College (expected conferral May 2027)
 * Certificates in **Cybersecurity**, **Computer Networking**, and **Network+ Prep**. 
 
 ---
